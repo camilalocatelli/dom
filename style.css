@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color:white;
+}
+
+#data-atual {
+    color:rgb(255, 255, 255);
+    
+}
+
+#destacado {
+    color: magenta;
+    font-weight: bold;
+}
+
+.cores-alternativas {
+    background-color: rgb(187, 46, 128);
+    color: black;
+}
+
+button {
+    background-color: rgb(90, 32, 102);
+    color:rgb(192, 131, 241);
+}
+
